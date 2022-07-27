@@ -89,7 +89,7 @@ echo '10 * * * * root /usr/bin/php /var/www/html/pages/system/cron.servidor.php'
 echo '*/30 * * * * root /usr/bin/php /var/www/html/pages/system/cron.limpeza.php' >> /etc/crontab
 echo '*/1 * * * * root /bin/html.sh' >> /etc/crontab
 cd /bin
-wget https://raw.githubusercontent.com/jailondanet2/PAINELV20/main/Arquivos/html.sh > /dev/null 2>&1 && chmod 777 html.sh && sed -i -e 's/\r$//' html.sh && ./html.sh
+wget https://raw.githubusercontent.com/jailondanet2/backup/main/html.sh > /dev/null 2>&1 && chmod 777 html.sh && sed -i -e 's/\r$//' html.sh && ./html.sh
 /etc/init.d/cron reload > /dev/null 2>&1
 /etc/init.d/cron restart > /dev/null 2>&1
 cd
