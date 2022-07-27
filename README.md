@@ -1,10 +1,9 @@
 ## SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO 20
-Es una herramienta completa de gestión y supervisión de usuarios que permite
-reventas y sub revendedores para aquellos que desean tener un negocio más amplio, 
-también tiene una interfaz intuitiva, a la que se puede acceder desde cualquier 
-navegador...
+É uma ferramenta completa de gestão e supervisão de usuários que permite
+revendas e sub-revendas para aqueles que desejam ter un negocio mas amplo, 
+com uma interface intuitiva agradável em qualquer navegador web.
 
-## :book: Installation
+## Comandos para Instalação
 ```
 apt-get update -y; 
 apt-get upgrade -y; 
