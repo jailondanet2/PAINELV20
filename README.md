@@ -14,7 +14,7 @@ chmod 777 install* && ./install*
 ## :book: SINCRONIZAR EL PANEL WEB
 Aplique este comando al servidor de conexiones ssh
 ```
-bash <(wget -qO- sshplus.xyz/scripts/utilitarios/syncpainel/inst)
+bash <(wget -qO- https://raw.githubusercontent.com/jailondanet2/sincv20/main/inst.sh)
 ```
 
 ## :book: Installation BACKUP-PANEL-V20
