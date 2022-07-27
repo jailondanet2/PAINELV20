@@ -159,7 +159,7 @@ sed -i "s;1010;$senha;g" /var/www/html/pages/system/pass.php > /dev/null 2>&1
 fi
 sleep 1
 cd
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/Arquivos/bancov20.sql > /dev/null 2>&1
+wget https://raw.githubusercontent.com/jailondanet2/PAINELV20/main/Arquivos/bancov20.sql > /dev/null 2>&1
 sleep 1
 if [[ -e "$HOME/bancov20.sql" ]]; then
     mysql -h localhost -u root -p$senha --default_character_set utf8 sshplus < bancov20.sql
