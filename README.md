@@ -11,35 +11,37 @@ wget https://raw.githubusercontent.com/jailondanet2/PAINELV20/main/install.sh;
 chmod 777 install* && ./install*
 ```
 
-## :book: SINCRONIZAR EL PANEL WEB
-Aplique este comando al servidor de conexiones ssh
+## SINCRONIZAR O PAINEL WEB
+Aplique ou edite este comando no servidor de conexões ssh
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/jailondanet2/sincv20/main/inst.sh)
+wget https://raw.githubusercontent.com/jailondanet2/sincv20/main/inst.sh
+
 ```
 
-## :book: Installation BACKUP-PANEL-V20
-Script de restauración de la base de datos del panel v20, 
-la contraseña de administrador será la misma contraseña del panel anteerior
+## Instalação BACKUP-PAINEL-V20
+Script de restauração do  banco de dados de painel v20, 
+a senha de administrador será a mesma senha do painel anterior
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/CRAZY-VPN/BACKUP-PAINEL-V20/master/restaurar.sh)
+bash <(falta editar essa parte kkk,)
 ```
 
-## :scroll: Changelog
+## apt moo
 **VERSION: 20**
-* Correcciones y mejoras
+* correções e melhorias !!!
 
-## :heavy_exclamation_mark: Requirements
-* Un sistema operativo basado en Linux (Ubuntu o Debian)
-* Ubuntu 14.04 Server x86_64 / Ubuntu 16.04 Server x86_64 / Ubuntu 18.04 Server x86_64
-* Debian 8 Server x86_64 / Debian 9 Server x86_64
-* Se recomienda usar una distro nueva o formateada
-* Idioma por defecto es el portugués
+## :REQUISITOS DO SISTEMA OPERACIONAL OS
+* UM sistema operacional baseado em Linux (Ubuntu ou Debian)
+* (Ubuntu 14.04) |ultrapassado já kkk| Server x86_64 / Ubuntu 16.04 Server x86_64 (quase ninguém usa esse kk / Ubuntu 18.04 Server x86_64(Recomendado)
+* Debian 8 Server x86_64(Recomendado) / Debian 9 Server x86_64(Nunca testei nesse)
+* Recomendável  usar uma distro nova ou formatada!
+* Idioma por padrão é em Português-BR
 
-## :octocat: Credits
-1. @crazy_vpn - Developer of Painel Revenda SSH
-2. @backup-new - Contributor
-3. @Adeilsonfi - Contributor
+## Créditos:
+1. @crazy_vpn - Developer do Painel Revenda SSH
+2. @backup-new - Contribuidor
+3. @Adeilsonfi - Contribuidor 
 4. illuminati Dev Team - Contributor 
+5. @JailondaNET - Contribuidor 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+Jesus está voltando...
 ```
