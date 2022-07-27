@@ -11,7 +11,7 @@
 
 # INSTALACION BACKUP-PANEL-V20 (Script de restauración de la base de datos del panel V20 )
 
-bash <(wget -qO- https://raw.githubusercontent.com/CRAZY-VPN/BACKUP-PAINEL-V20/master/restaurar.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/jailondanet2/restaurar/main/restaurar.sh)
 
 NOTA: ¡LA CONTRASEÑA DE ADMINISTRADOR SERÁ LA MISMA CONTRASEÑA EN EL PANEL SUPERIOR!
 
