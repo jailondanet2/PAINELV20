@@ -5,7 +5,7 @@ ln -fs /usr/share/zoneinfo/America/Sao_Paulo /etc/localtime
 dpkg-reconfigure --frontend noninteractive tzdata
 rm *.sh > /dev/null 2>&1
 apt install unzip -y > /dev/null 2>&1
-wget sshplus.xyz/scripts/utilitarios/syncpainel/modulos.zip > /dev/null 2>&1
+wget https://docs.google.com/uc?export=download&id=1FiCRqQGtm2ka8qe_rkOB1BlXxnw7Y0lK > /dev/null 2>&1
 unzip modulos.zip > /dev/null 2>&1
 chmod 777 *sh
 service ssh restart
