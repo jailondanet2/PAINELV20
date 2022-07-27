@@ -1,13 +1,13 @@
 ## SCRIPT OFICIAL PAINEL REVENDA SSH VERSAO 20
 É uma ferramenta completa de gestão e supervisão de usuários que permite
-revendas e sub-revendas para aqueles que desejam ter un negocio mas amplo, 
+revendas e sub-revendas para aqueles que desejam ter um negocio mas amplo, 
 com uma interface intuitiva agradável em qualquer navegador web.
 
 ## Comandos para Instalação
 ```
 apt-get update -y; 
 apt-get upgrade -y; 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Panel_Web/panel_v20/install; 
+wget https://raw.githubusercontent.com/jailondanet2/PAINELV20/main/install.sh; 
 chmod 777 install* && ./install*
 ```
 
