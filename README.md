@@ -26,11 +26,11 @@ bash <(falta editar essa parte kkk,)
 ```
 
 ## apt moo
-**VERSION: 20**
+**VERSÃO: 20**
 * correções e melhorias !!!
 
 ## :REQUISITOS DO SISTEMA OPERACIONAL OS
-* UM sistema operacional baseado em Linux (Ubuntu ou Debian)
+* Um sistema operacional baseado em Linux (Ubuntu ou Debian)
 * (Ubuntu 14.04) |ultrapassado já kkk| Server x86_64 / Ubuntu 16.04 Server x86_64 (quase ninguém usa esse kk / Ubuntu 18.04 Server x86_64(Recomendado)
 * Debian 8 Server x86_64(Recomendado) / Debian 9 Server x86_64(Nunca testei nesse)
 * Recomendável  usar uma distro nova ou formatada!
@@ -40,7 +40,7 @@ bash <(falta editar essa parte kkk,)
 1. @crazy_vpn - Developer do Painel Revenda SSH
 2. @backup-new - Contribuidor
 3. @Adeilsonfi - Contribuidor 
-4. illuminati Dev Team - Contributor 
+4. illuminati Dev Team - Contribuidor 
 5. @JailondaNET - Contribuidor 
 ```
 Jesus está voltando...
